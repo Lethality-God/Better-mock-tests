@@ -24,7 +24,8 @@ NOTE: YOU WILL NEED PYTHON TO RUN THIS PROGRAM
 The CLI - 
 
 
-![Better_mock_tests_1](https://github.com/Lethality-God/Better-mock-tests/assets/142657051/3cc6a327-0f3f-47c3-a7ec-2fc27fad7200)
+![image](https://github.com/Lethality-God/Better-mock-tests/assets/142657051/be6f991f-519e-4101-96d6-3dd36d4ffc63)
+
 
 
 
