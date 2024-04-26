@@ -16,3 +16,5 @@ Instructions-
 5.) The options can be changed by entering 'CHANGE', followed by the question number, and then option
 
 6.) Everything is case in-sensitive (Except the file name)
+
+7.) If you save 2 files by the same name, the older file is replaced by the newer file
