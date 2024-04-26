@@ -22,9 +22,15 @@ Instructions-
 NOTE: YOU WILL NEED PYTHON TO RUN THIS PROGRAM
 
 The CLI - 
+
+
+
 ![Better_mock_tests_1](https://github.com/Lethality-God/Better-mock-tests/assets/142657051/ee44124c-e779-4d36-99f4-c829ce308770)
 
 The data stored in text files -
+
+
+
 ![Data_stored_in_text_file](https://github.com/Lethality-God/Better-mock-tests/assets/142657051/b1f7b992-91af-42f7-9c01-96dd5437ace9)
 
-T
+
