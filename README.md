@@ -25,7 +25,8 @@ The CLI -
 
 
 
-![image](https://github.com/Lethality-God/Better-mock-tests/assets/142657051/b772d492-5bea-4a1b-aa3a-7fa1c7cc3d7b)
+![image](https://github.com/Lethality-God/Better-mock-tests/assets/142657051/310c4bc3-53bc-46fb-bf27-b82610d382fd)
+
 
 
 The data stored in text files -
