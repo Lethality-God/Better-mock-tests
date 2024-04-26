@@ -18,3 +18,5 @@ Instructions-
 6.) Everything is case in-sensitive (Except the file name)
 
 7.) If you save 2 files by the same name, the older file is replaced by the newer file
+
+NOTE: YOU WILL NEED PYTHON TO RUN THIS PROGRAM
